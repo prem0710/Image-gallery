@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding:0;
+}
+div h1{
+    border-bottom: solid black;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+
+}
+.container-image__apple{
+    width: 250px;
+    border: solid black 2px;
+    height: 300px;
+    
+
+}
+
+.container-image__photo{
+    width: 250px;
+    border: solid black 2px;
+    height: 300px;
+}
+.container-image__cat{
+    border: solid black 2px;
+    width: 250px;
+    height: 300px;
+}
+
+.container2-photo__dog{
+    border: solid black 2px;
+    width:250px;
+    height: 300px;
+}
+
+.container2-photo__tree{
+    border: solid black 2px;
+    width:250px;
+    height: 300px;
+}
+
+.container2-photo__food{
+    border: solid black 2px;
+    width:250px;
+    height: 300px;
+    
+}
+div{
+    background-color:lightcoral;
+}
